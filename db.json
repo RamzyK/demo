@@ -5,7 +5,7 @@
     "title": "Acheter des provisions",
     "description": "Acheter du lait, du pain et des œufs",
     "due_date": "2024-06-05",
-    "completed": true
+    "completed": false
 },
 {
     "id": 2,
