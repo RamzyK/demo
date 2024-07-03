@@ -4,210 +4,210 @@
     "id": 1,
     "title": "Acheter des provisions",
     "description": "Acheter du lait, du pain et des œufs",
-    "due_date": "2024-06-05",
+    "due_date": "2024-6-5",
     "completed": true
 },
 {
     "id": 2,
     "title": "Faire du sport",
     "description": "Aller courir pendant 30 minutes",
-    "due_date": "2024-06-07",
+    "due_date": "2024-6-7",
     "completed": true
 },
 {
     "id": 3,
     "title": "Appeler le docteur",
     "description": "Prendre rendez-vous pour un bilan de santé",
-    "due_date": "2024-06-09",
+    "due_date": "2024-6-7",
     "completed": true
 },
 {
     "id": 4,
     "title": "Lire un livre",
     "description": "Terminer la lecture du livre commencé",
-    "due_date": "2024-06-10",
+    "due_date": "2024-6-10",
     "completed": true
 },
 {
     "id": 5,
     "title": "Nettoyer la maison",
     "description": "Faire le ménage dans le salon et la cuisine",
-    "due_date": "2024-06-11",
+    "due_date": "2024-6-11",
     "completed": false
 },
 {
     "id": 6,
     "title": "Envoyer des emails",
     "description": "Répondre aux emails professionnels en attente",
-    "due_date": "2024-06-12",
+    "due_date": "2024-6-12",
     "completed": true
 },
 {
     "id": 7,
     "title": "Préparer le dîner",
     "description": "Cuisiner un repas pour la famille",
-    "due_date": "2024-06-13",
+    "due_date": "2024-6-13",
     "completed": false
 },
 {
     "id": 8,
     "title": "Aller chez le coiffeur",
     "description": "Coupe de cheveux",
-    "due_date": "2024-06-14",
+    "due_date": "2024-6-14",
     "completed": false
 },
 {
     "id": 9,
     "title": "Faire la lessive",
     "description": "Laver et plier les vêtements",
-    "due_date": "2024-06-15",
+    "due_date": "2024-6-15",
     "completed": true
 },
 {
     "id": 10,
     "title": "Planifier les vacances",
     "description": "Réserver les billets d'avion et l'hôtel",
-    "due_date": "2024-06-16",
+    "due_date": "2024-6-16",
     "completed": false
 },
 {
     "id": 11,
     "title": "Faire les courses",
     "description": "Acheter des fruits et légumes",
-    "due_date": "2024-06-17",
+    "due_date": "2024-6-17",
     "completed": false
 },
 {
     "id": 12,
     "title": "Ranger le garage",
     "description": "Organiser les outils et le matériel",
-    "due_date": "2024-06-18",
+    "due_date": "2024-6-18",
     "completed": true
 },
 {
     "id": 13,
     "title": "Aller chez le dentiste",
     "description": "Contrôle de routine",
-    "due_date": "2024-06-19",
+    "due_date": "2024-6-19",
     "completed": false
 },
 {
     "id": 14,
     "title": "Acheter un cadeau",
     "description": "Trouver un cadeau d'anniversaire pour un ami",
-    "due_date": "2024-06-20",
+    "due_date": "2024-6-20",
     "completed": true
 },
 {
     "id": 15,
     "title": "Faire du jardinage",
     "description": "Planter des fleurs et des légumes",
-    "due_date": "2024-06-21",
+    "due_date": "2024-6-21",
     "completed": false
 },
 {
     "id": 16,
     "title": "Étudier pour un examen",
     "description": "Réviser les chapitres 1 à 5",
-    "due_date": "2024-06-22",
+    "due_date": "2024-6-22",
     "completed": false
 },
 {
     "id": 17,
     "title": "Nettoyer la voiture",
     "description": "Laver l'intérieur et l'extérieur",
-    "due_date": "2024-06-23",
+    "due_date": "2024-6-23",
     "completed": true
 },
 {
     "id": 18,
     "title": "Faire une promenade",
     "description": "Marcher dans le parc pendant une heure",
-    "due_date": "2024-06-24",
+    "due_date": "2024-6-24",
     "completed": false
 },
 {
     "id": 19,
     "title": "Cuisiner des biscuits",
     "description": "Préparer des biscuits au chocolat",
-    "due_date": "2024-06-25",
+    "due_date": "2024-6-26",
     "completed": false
 },
 {
     "id": 20,
     "title": "Mettre à jour le CV",
     "description": "Ajouter les dernières expériences professionnelles",
-    "due_date": "2024-06-26",
+    "due_date": "2024-6-26",
     "completed": true
 },
 {
     "id": 21,
     "title": "Faire un don",
     "description": "Donner des vêtements à une œuvre de charité",
-    "due_date": "2024-06-27",
+    "due_date": "2024-06-26",
     "completed": false
 },
 {
     "id": 22,
     "title": "Organiser une soirée",
     "description": "Inviter des amis pour une soirée jeux",
-    "due_date": "2024-06-28",
+    "due_date": "2024-6-28",
     "completed": false
 },
 {
     "id": 23,
     "title": "Aller au cinéma",
     "description": "Voir le dernier film sorti",
-    "due_date": "2024-06-29",
+    "due_date": "2024-6-25",
     "completed": true
 },
 {
     "id": 24,
     "title": "Prendre des photos",
     "description": "Faire une séance photo en extérieur",
-    "due_date": "2024-06-30",
+    "due_date": "2024-6-30",
     "completed": false
 },
 {
     "id": 25,
     "title": "Faire un bilan de santé",
     "description": "Prendre rendez-vous pour un check-up complet",
-    "due_date": "2024-07-01",
+    "due_date": "2024-7-1",
     "completed": false
 },
 {
     "id": 26,
     "title": "Acheter des fournitures",
     "description": "Acheter des fournitures de bureau",
-    "due_date": "2024-07-02",
+    "due_date": "2024-7-1",
     "completed": true
 },
 {
     "id": 27,
     "title": "Nettoyer la terrasse",
     "description": "Balayer et laver la terrasse",
-    "due_date": "2024-07-03",
+    "due_date": "2024--7-1",
     "completed": false
 },
 {
     "id": 28,
     "title": "Faire du bénévolat",
     "description": "Participer à une collecte de nourriture",
-    "due_date": "2024-07-04",
+    "due_date": "2024-7-1",
     "completed": false
 },
 {
     "id": 29,
     "title": "Visiter un musée",
     "description": "Aller voir une exposition au musée",
-    "due_date": "2024-07-05",
+    "due_date": "2024-7-1",
     "completed": false
 },
 {
     "id": 30,
     "title": "Rédiger un rapport",
     "description": "Terminer le rapport pour le travail",
-    "due_date": "2024-07-06",
+    "due_date": "2024-7-1",
     "completed": true
 }
   ],
