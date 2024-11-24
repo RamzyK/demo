@@ -1,221 +1,271 @@
 {
-  "todos": [
+  "stories": [
     {
-    "id": 1,
-    "title": "Acheter des provisions",
-    "description": "Acheter du lait, du pain et des œufs",
-    "due_date": "2024-6-5",
-    "completed": true
-},
-{
-    "id": 2,
-    "title": "Faire du sport",
-    "description": "Aller courir pendant 30 minutes",
-    "due_date": "2024-6-7",
-    "completed": true
-},
-{
-    "id": 3,
-    "title": "Appeler le docteur",
-    "description": "Prendre rendez-vous pour un bilan de santé",
-    "due_date": "2024-6-7",
-    "completed": true
-},
-{
-    "id": 4,
-    "title": "Lire un livre",
-    "description": "Terminer la lecture du livre commencé",
-    "due_date": "2024-6-10",
-    "completed": true
-},
-{
-    "id": 5,
-    "title": "Nettoyer la maison",
-    "description": "Faire le ménage dans le salon et la cuisine",
-    "due_date": "2024-6-11",
-    "completed": false
-},
-{
-    "id": 6,
-    "title": "Envoyer des emails",
-    "description": "Répondre aux emails professionnels en attente",
-    "due_date": "2024-6-12",
-    "completed": true
-},
-{
-    "id": 7,
-    "title": "Préparer le dîner",
-    "description": "Cuisiner un repas pour la famille",
-    "due_date": "2024-6-13",
-    "completed": false
-},
-{
-    "id": 8,
-    "title": "Aller chez le coiffeur",
-    "description": "Coupe de cheveux",
-    "due_date": "2024-6-14",
-    "completed": false
-},
-{
-    "id": 9,
-    "title": "Faire la lessive",
-    "description": "Laver et plier les vêtements",
-    "due_date": "2024-6-15",
-    "completed": true
-},
-{
-    "id": 10,
-    "title": "Planifier les vacances",
-    "description": "Réserver les billets d'avion et l'hôtel",
-    "due_date": "2024-6-16",
-    "completed": false
-},
-{
-    "id": 11,
-    "title": "Faire les courses",
-    "description": "Acheter des fruits et légumes",
-    "due_date": "2024-6-17",
-    "completed": false
-},
-{
-    "id": 12,
-    "title": "Ranger le garage",
-    "description": "Organiser les outils et le matériel",
-    "due_date": "2024-6-18",
-    "completed": true
-},
-{
-    "id": 13,
-    "title": "Aller chez le dentiste",
-    "description": "Contrôle de routine",
-    "due_date": "2024-6-19",
-    "completed": false
-},
-{
-    "id": 14,
-    "title": "Acheter un cadeau",
-    "description": "Trouver un cadeau d'anniversaire pour un ami",
-    "due_date": "2024-6-20",
-    "completed": true
-},
-{
-    "id": 15,
-    "title": "Faire du jardinage",
-    "description": "Planter des fleurs et des légumes",
-    "due_date": "2024-6-21",
-    "completed": false
-},
-{
-    "id": 16,
-    "title": "Étudier pour un examen",
-    "description": "Réviser les chapitres 1 à 5",
-    "due_date": "2024-6-22",
-    "completed": false
-},
-{
-    "id": 17,
-    "title": "Nettoyer la voiture",
-    "description": "Laver l'intérieur et l'extérieur",
-    "due_date": "2024-6-23",
-    "completed": true
-},
-{
-    "id": 18,
-    "title": "Faire une promenade",
-    "description": "Marcher dans le parc pendant une heure",
-    "due_date": "2024-6-24",
-    "completed": false
-},
-{
-    "id": 19,
-    "title": "Cuisiner des biscuits",
-    "description": "Préparer des biscuits au chocolat",
-    "due_date": "2024-6-26",
-    "completed": false
-},
-{
-    "id": 20,
-    "title": "Mettre à jour le CV",
-    "description": "Ajouter les dernières expériences professionnelles",
-    "due_date": "2024-6-26",
-    "completed": true
-},
-{
-    "id": 21,
-    "title": "Faire un don",
-    "description": "Donner des vêtements à une œuvre de charité",
-    "due_date": "2024-06-26",
-    "completed": false
-},
-{
-    "id": 22,
-    "title": "Organiser une soirée",
-    "description": "Inviter des amis pour une soirée jeux",
-    "due_date": "2024-6-28",
-    "completed": false
-},
-{
-    "id": 23,
-    "title": "Aller au cinéma",
-    "description": "Voir le dernier film sorti",
-    "due_date": "2024-6-25",
-    "completed": true
-},
-{
-    "id": 24,
-    "title": "Prendre des photos",
-    "description": "Faire une séance photo en extérieur",
-    "due_date": "2024-6-30",
-    "completed": false
-},
-{
-    "id": 25,
-    "title": "Faire un bilan de santé",
-    "description": "Prendre rendez-vous pour un check-up complet",
-    "due_date": "2024-7-1",
-    "completed": false
-},
-{
-    "id": 26,
-    "title": "Acheter des fournitures",
-    "description": "Acheter des fournitures de bureau",
-    "due_date": "2024-7-1",
-    "completed": true
-},
-{
-    "id": 27,
-    "title": "Nettoyer la terrasse",
-    "description": "Balayer et laver la terrasse",
-    "due_date": "2024--7-1",
-    "completed": false
-},
-{
-    "id": 28,
-    "title": "Faire du bénévolat",
-    "description": "Participer à une collecte de nourriture",
-    "due_date": "2024-7-1",
-    "completed": false
-},
-{
-    "id": 29,
-    "title": "Visiter un musée",
-    "description": "Aller voir une exposition au musée",
-    "due_date": "2024-7-1",
-    "completed": false
-},
-{
-    "id": 30,
-    "title": "Rédiger un rapport",
-    "description": "Terminer le rapport pour le travail",
-    "due_date": "2024-7-1",
-    "completed": true
-}
+      "user_id": "user_1",
+      "username": "john_doe",
+      "profile_picture": "https://example.com/profiles/john_doe.jpg",
+      "story_content": [
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_1",
+          "duration": 5,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_2",
+          "duration": 7,
+          "timestamp": "2023-10-01T14:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_3",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_4",
+          "duration": 15,
+          "timestamp": "2023-10-01T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "user_id": "user_2",
+      "username": "jane_smith",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "duration": 10,
+      "story_content": [
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_5",
+          "duration": 20,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_6",
+          "duration": 10,
+          "timestamp": "2023-10-01T14:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_7",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "user_id": "user_3",
+      "username": "jane_smith",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "story_content": [
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_8",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_9",
+          "duration": 10,
+          "timestamp": "2023-10-01T14:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_10",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        }
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "posts": [
+    {
+      "post_id": "post_1",
+      "user_id": "user_1",
+      "username": "john_doe",
+      "profile_picture": "https://example.com/profiles/john_doe.jpg",
+      "content": "https://example.com/posts/john_doe/post1.jpg",
+      "caption": "Beautiful sunset!",
+      "likes": 120,
+      "comments": [
+        {
+          "user_id": "user_2",
+          "username": "jane_smith",
+          "comment": "Amazing view!",
+          "timestamp": "2023-10-01T16:00:00Z"
+        }
+      ],
+      "shares": 10,
+      "timestamp": "2023-10-01T12:00:00Z"
+    },
+    {
+      "post_id": "post_2",
+      "user_id": "user_2",
+      "username": "jane_smith",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "content": "https://example.com/posts/jane_smith/post1.jpg",
+      "caption": "Loving this place!",
+      "likes": 200,
+      "comments": [
+        {
+          "user_id": "user_1",
+          "username": "john_doe",
+          "comment": "Looks great!",
+          "timestamp": "2023-10-01T17:00:00Z"
+        }
+      ],
+      "shares": 15,
+      "timestamp": "2023-10-01T13:00:00Z"
+    },
+    {
+      "post_id": "post_3",
+      "user_id": "user_3",
+      "username": "arthur_01",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "content": "https://example.com/posts/jane_smith/post1.jpg",
+      "caption": "Loving this place!",
+      "likes": 200,
+      "comments": [
+        {
+          "user_id": "user_1",
+          "username": "john_doe",
+          "comment": "Looks great!",
+          "timestamp": "2023-10-01T17:00:00Z"
+        }
+      ],
+      "shares": 15,
+      "timestamp": "2023-10-01T13:00:00Z"
+    }
   ],
-  "profile": {
-    "name": "RamzyK"
-  }
+  "messages": [
+    {
+      "conversation_id": "conv_1",
+      "participants": [
+        "user_1",
+        "user_2"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_1",
+          "message": "Hey, how are you?",
+          "timestamp": "2023-10-01T18:00:00Z"
+        },
+        {
+          "sender_id": "user_2",
+          "message": "I'm good, thanks! How about you?",
+          "timestamp": "2023-10-01T18:05:00Z"
+        },
+        {
+          "sender_id": "user_1",
+          "message": "I'm doing well, just busy with work.",
+          "timestamp": "2023-10-01T18:10:00Z"
+        },
+        {
+          "sender_id": "user_2",
+          "message": "I understand. Any plans for the weekend?",
+          "timestamp": "2023-10-01T18:15:00Z"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_2",
+      "participants": [
+        "user_3",
+        "user_4"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_3",
+          "message": "Hi, are you coming to the party?",
+          "timestamp": "2023-10-02T10:00:00Z"
+        },
+        {
+          "sender_id": "user_4",
+          "message": "Yes, I'll be there!",
+          "timestamp": "2023-10-02T10:05:00Z"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_3",
+      "participants": [
+        "user_5",
+        "user_6"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_5",
+          "message": "Can you send me the report?",
+          "timestamp": "2023-10-03T09:00:00Z"
+        },
+        {
+          "sender_id": "user_6",
+          "message": "Sure, I'll send it by EOD.",
+          "timestamp": "2023-10-03T09:10:00Z"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_4",
+      "participants": [
+        "user_7",
+        "user_8"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_7",
+          "message": "Are we still on for lunch?",
+          "timestamp": "2023-10-04T12:00:00Z"
+        },
+        {
+          "sender_id": "user_8",
+          "message": "Yes, see you at 1 PM.",
+          "timestamp": "2023-10-04T12:05:00Z"
+        }
+      ]
+    }
+  ],
+  "followings": [
+    {
+      "id": 1,
+      "first_name": "Baily",
+      "last_name": "Pettis",
+      "email": "bpettis0@vimeo.com",
+      "followers": 1,
+      "following": 1,
+      "posts": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Sherman",
+      "last_name": "Adkin",
+      "email": "sadkin1@example.com",
+      "followers": 2,
+      "following": 2,
+      "posts": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Gisella",
+      "last_name": "Normavell",
+      "email": "gnormavell2@cornell.edu",
+      "followers": 3,
+      "following": 3,
+      "posts": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Emmie",
+      "last_name": "Petkov",
+      "email": "epetkov3@woothemes.com",
+      "followers": 4,
+      "following": 4,
+      "posts": 4
+    }
+  ]
 }
