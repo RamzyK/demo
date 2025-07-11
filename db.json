@@ -1,6 +1,7 @@
 {
    "conversations":[
       {
+         "id": 0,
          "username":"Arthur",
          "messages":[
             {
@@ -22,6 +23,7 @@
          ]
       },
      {
+         "id": 1,
          "username":"Ramzy",
          "messages":[
             {
